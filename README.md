@@ -22,15 +22,18 @@ other options available as buttons during the game
 The game was written in Java using awt and swing.
 
 
-##Screenshots
-Menu
+## Screenshots
+Menu  
+
 ![GameMenuLayout1](https://raw.githubusercontent.com/kub4l4/FlappyCreep/main/images/Menu.png)
 
-Game Layout - World
+Game Layout - World  
+
 ![GamePlayLayout1](https://raw.githubusercontent.com/kub4l4/FlappyCreep/main/images/Game1.png)
 ![GameOverLayout1](https://raw.githubusercontent.com/kub4l4/FlappyCreep/main/images/GameOver1.png)
 
-Game Layout - Nether
+Game Layout - Nether  
+
 ![GamePlayLayout2](https://raw.githubusercontent.com/kub4l4/FlappyCreep/main/images/Game2.png)
 ![GameOverLayout2](https://raw.githubusercontent.com/kub4l4/FlappyCreep/main/images/GameOver2.png)
 
